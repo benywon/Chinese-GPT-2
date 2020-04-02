@@ -6,6 +6,8 @@ The model is based on shared weight Transformer (a.k.a albert https://arxiv.org/
 
 the model is trained on 4.5 billion chinese internet web pages
 
+The model has 2048 hidden size and 12 layers, which is about 97 million parameters.
+
 ------
 ###Usage
 
