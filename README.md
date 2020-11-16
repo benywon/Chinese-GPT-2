@@ -13,7 +13,9 @@ The model has 2048 hidden size and 12 layers, which is about 97 million paramete
 
 First, install extra packages by: pip3 install -r requirements.txt
 
-Then, download the pre-trained model from https://drive.google.com/file/d/1Cclc0pfLfOJhD5RcaAcZ3-8ANo75gWR1/view?usp=sharing
+Then, download the pre-trained model from baidu netdisk:
+url: https://pan.baidu.com/s/1uW7sBytbtS5LEmSOlWlr-A 
+code: nafi 
 
 python3 interface --input=input.txt  --output=output.txt --cuda=True --input_max_length=32 --output_max_length=128
 
